@@ -1,4 +1,4 @@
-# cydia
+# wickedsunnay.github.io
 Custom Cydia packages made by me
 
 Hello World,
